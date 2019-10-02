@@ -8,7 +8,7 @@
 </head>
 <body>
    <?php
-      $grades = array("Bob" => 100, "Jim" => 95, "Steve" => 90);
+      $grades = array("Happy" => 10, "Birthday" => 26, "Menashi" => 1993, "Countdown" => 25, "Units" => "days");
       echo $grades["Bob"]; // so it's an object
    ?>
 </body>
